@@ -22,4 +22,3 @@ override.tf.json
 Игнорировать файлы с такими именами:
 .terraformrc
 terraform.rc
-
